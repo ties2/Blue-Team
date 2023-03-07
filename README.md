@@ -9,6 +9,7 @@
 
 *Detect Cryptojacking Malware with Proxy Logs Dave Mckay
 
+***
 
 **Network Discovery and Mapping**
 
@@ -24,6 +25,7 @@
 
 *Shodan Internet facing asset search engine
 
+***
 
 **Vulnerability Management**
 
@@ -35,7 +37,30 @@
 
 *HackerOne Bug Bounty Management Platform
 
+***
 
+***Security Monitoring***
 
+*Sysmon System Monitor for Windows
+
+*Kibana Data visualization and exploration
+
+*Logstash Data collection and processing
+
+*parsedmarc Email DMARC data visualisation
+
+*Phishing Catcher Phishing catcher using Certstream 
+
+*maltrail Malicious traffic detection system 
+
+*AutorunsToWinEventLog Windows AutoRuns Event Parser 
+
+*procfilter YARA-integrated process denial framework
+  
+*velociraptor Endpoint visibility and collection tool 
+
+*SysmonSearch Sysmon event log visualisation
+
+***
 
 
