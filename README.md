@@ -1,7 +1,7 @@
 # Blue-Team
 
 
-**Blue Team Tips**
+**Blue Team Tips
 
 *Payload extraction with Process Hacker @embee_research
 
