@@ -3,9 +3,9 @@
 
 Blue Team Tips $\textcolor{gray}{\text{3 tips}}$
 
-Payload extraction with Process Hacker @embee_research
-Prevent Script Execution via Double Click Default Application GPO Change 
-Detect Cryptojacking Malware with Proxy Logs Dave Mckay
+*Payload extraction with Process Hacker @embee_research
+*Prevent Script Execution via Double Click Default Application GPO Change 
+*Detect Cryptojacking Malware with Proxy Logs Dave Mckay
 
 
 Network Discovery and Mapping $\textcolor{gray}{\text{6 tools}}$
