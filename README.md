@@ -28,6 +28,14 @@
 **Vulnerability Management**
 
 *OpenVAS Open-source vulnerability scanner 
+
 *Nessus Essentials Vulnerability scanner 
+
 *Nexpose Vulnerability management tool 
+
 *HackerOne Bug Bounty Management Platform
+
+
+
+
+
