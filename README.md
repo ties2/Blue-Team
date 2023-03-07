@@ -1,7 +1,7 @@
 # Blue-Team
 
 
-Blue Team Tips $\textcolor{gray}{\text{3 tips}}$
+**Blue Team Tips**
 
 *Payload extraction with Process Hacker @embee_research
 
