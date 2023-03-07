@@ -82,6 +82,22 @@
  * IDA Malware disassembler and debugger
  * Ghidra Malware reverse engineering tool
 
+***Data Recovery***
+
+* Recuva File recovery
+* Extundelete Ext3 or ext4 partition recovery 
+* TestDisk Data Recovery
+
+
+***Digital Forensics***
+
+* SANS SIFT Forensic toolkit
+* The Sleuth Kit Disk images analysis tools
+* Autopsy Digital forensics platform
+
+
+
+
 
 
 
